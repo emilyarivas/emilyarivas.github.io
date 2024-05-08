@@ -1,9 +1,15 @@
 
 # Emily Rivas's Portfolio
 
-I am taking a computer science course at CSUF, and I graduate in 2025.
+## Hello, World!
 
-## Favorite CPSC 120L Labs
+This is my homepage.  My name is Emily Rivas and I am an English major at [Cal State Fullerton](http://www.fullerton.edu/). I am taking a computer science course at CSUF. I graduate in 2025.
+
+### Computer Science Projects
+
+My GitHub page is http://github.com/emilyarivas
+
+#### Favorite CPSC 120L Labs
 
 - Lab 6, Part 1
 
